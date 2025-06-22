@@ -1,0 +1,21 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "16.0.0-dev"
+    },
+    "email_marketing_management": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "9cec807db22a022d88c7cb1617ffc068cefaac6a",
+            "branch": "feat/create_email_marketing_campain"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    }
+}

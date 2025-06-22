@@ -1,0 +1,2 @@
+frappe
+email_marketing_management
