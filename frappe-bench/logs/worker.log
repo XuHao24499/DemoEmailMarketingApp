@@ -22,3 +22,12 @@
 2025-06-22 20:12:23,910 Cleaning registries for queue: home-admin1-Documents-email_marketing_campain-frappe-bench:long
 2025-06-22 20:22:59,350 Worker 49e97fb9db1a440994f8d6c9fc592640 [PID 30626]: warm shut down requested
 2025-06-22 20:22:59,355 Unsubscribing from channel rq:pubsub:49e97fb9db1a440994f8d6c9fc592640
+2025-06-23 08:31:48,682 Worker rq:worker:21b81384d71c4730b3fac72f70e7f152 started with PID 5881, version 2.4.0
+2025-06-23 08:31:48,682 Subscribing to channel rq:pubsub:21b81384d71c4730b3fac72f70e7f152
+2025-06-23 08:31:48,683 *** Listening on home-admin1-Documents-email_marketing_campain-frappe-bench:short, home-admin1-Documents-email_marketing_campain-frappe-bench:default, home-admin1-Documents-email_marketing_campain-frappe-bench:long...
+2025-06-23 08:31:48,684 Cleaning registries for queue: home-admin1-Documents-email_marketing_campain-frappe-bench:short
+2025-06-23 08:31:48,685 Cleaning registries for queue: home-admin1-Documents-email_marketing_campain-frappe-bench:default
+2025-06-23 08:31:48,686 Cleaning registries for queue: home-admin1-Documents-email_marketing_campain-frappe-bench:long
+2025-06-23 08:45:18,758 Cleaning registries for queue: home-admin1-Documents-email_marketing_campain-frappe-bench:short
+2025-06-23 08:45:18,759 Cleaning registries for queue: home-admin1-Documents-email_marketing_campain-frappe-bench:default
+2025-06-23 08:45:18,759 Cleaning registries for queue: home-admin1-Documents-email_marketing_campain-frappe-bench:long
